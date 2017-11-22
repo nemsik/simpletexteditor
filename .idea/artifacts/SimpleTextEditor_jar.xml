@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleTextEditor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleTextEditor_jar</output-path>
+    <root id="archive" name="SimpleTextEditor.jar">
+      <element id="module-output" name="SimpleTextEditor" />
+    </root>
+  </artifact>
+</component>
